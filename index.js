@@ -4,5 +4,5 @@ function somar (){
 
     var soma = nu1 + nu2;
 
-    document.getElementById('Resultado').textContent = 'Te amo, você é a melhor namorada do mundo';
+    document.getElementById('Resultado').textContent = 'Vai trabalhar seu fila da puta';
 }
